@@ -2,7 +2,7 @@
 //  landmarksUITests.swift
 //  landmarksUITests
 //
-//  Created by Wender Cruz on 05/11/21.
+//  Created by Wender Patrick on 05/11/21.
 //
 
 import XCTest
