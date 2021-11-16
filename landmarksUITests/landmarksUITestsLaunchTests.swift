@@ -1,13 +1,13 @@
 //
-//  todoUITestsLaunchTests.swift
-//  todoUITests
+//  landmarksUITestsLaunchTests.swift
+//  landmarksUITests
 //
 //  Created by Wender Cruz on 05/11/21.
 //
 
 import XCTest
 
-class todoUITestsLaunchTests: XCTestCase {
+class landmarksUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

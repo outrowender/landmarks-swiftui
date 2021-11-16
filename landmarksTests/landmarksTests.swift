@@ -1,14 +1,14 @@
 //
-//  todoTests.swift
-//  todoTests
+//  landmarksTests.swift
+//  landmarksTests
 //
 //  Created by Wender Cruz on 05/11/21.
 //
 
 import XCTest
-@testable import todo
+@testable import landmarks
 
-class todoTests: XCTestCase {
+class landmarksTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

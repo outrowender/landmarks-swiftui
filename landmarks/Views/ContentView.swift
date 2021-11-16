@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  todo
+//  landmarks
 //
 //  Created by Wender Cruz on 05/11/21.
 //
@@ -9,8 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        LandmarkList()
     }
 }
 

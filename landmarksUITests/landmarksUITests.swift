@@ -1,13 +1,13 @@
 //
-//  todoUITests.swift
-//  todoUITests
+//  landmarksUITests.swift
+//  landmarksUITests
 //
 //  Created by Wender Cruz on 05/11/21.
 //
 
 import XCTest
 
-class todoUITests: XCTestCase {
+class landmarksUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
